@@ -1,5 +1,11 @@
 [
   {
+    "login": "humanize-ai-text-io",
+    "name": "HumanizeAIText",
+    "imageUrl": "https://humanizeaitext.io/icon.svg",
+    "linkUrl": "https://humanizeaitext.io/"
+  },
+  {
     "login": "netroutingcom",
     "name": "Netrouting.com",
     "imageUrl": "https://netrouting.com/wp-content/uploads/2026/04/netrouting-color.png",
